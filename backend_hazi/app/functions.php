@@ -3,7 +3,7 @@ declare(strict_types=1);
 
 function get_all_tracks(): array
 {
-    $music = explode("\n", file_get_contents('data.txt'));
+    $music = explode("\n", file_get_contents(__DIR__."/data.txt"));
     $__MUSIC__ = [];
     foreach ($music as $music_line) {
         $sublist = [];
@@ -11,7 +11,7 @@ function get_all_tracks(): array
         $keys = ["id", "title", "performer", "album", "length", "genre", "year"];
         $x = 0;
         foreach ($keys as $key) {
-            $sublist[$key] = $music_data[$x];
+            $sublist[$key] = $music_data[$x] ?? "A rendszer hülye >:(";
             $x++;
         }
         $__MUSIC__[] = $sublist;

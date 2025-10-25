@@ -1,13 +1,14 @@
 1;Bohemian Rhapsody;Queen;A Night at the Opera;354;rock;1975
 2;Billie Jean;Michael Jackson;Thriller;294;pop;1982
-3;Coming Home;Reasoner;Nitrohaul OST;257;classic;2010
+3;Coming Home;Reasoner;Nitrohaul OST;257;klasszikus;2010
 4;Deutschland;Rammstein;Deutschland;567;metal;2019
-5;Einzelhaft;Falco;Einzelhaft;241;hit;1982
-6;June;Melobytes;Greatest Songs of Melobytes from Autumn 2022;30;midi;2022
-7;Dva Mafona;Steklovata;Ldinkoj po stekloe;217;hit;2001
-8;Raghupati Raghav Raja Ram;D. V. Paluskar;Bhajans;217;bhajan;1931
-9;Doubt;twenty one pilots;Blurryface;191;hit;2015
-10;6:00 PM;T. Crawford;-1;288;hit;2019
-11;The River;Unknown;CC Folk Music;388;folk;2025
-12;Kann es Liebe sein?;Falco;Junge Roemer;246;hit;1984
-13;Droopy Likes Your Face;C418;Life Changing Moments Seem Minor in Pictures;128;electro;2010
+5;Einzelhaft;Falco;Einzelhaft;241;pop;1982
+6;June;Melobytes;Greatest Songs of Melobytes from Autumn 2022;30;elektronikus;2022
+7;Dva Mafona;Steklovata;Ldinkoj po stekloe;217;pop;2001
+8;Chicago Trip;MerrieMel;169;pop;2015
+9;Doubt;twenty one pilots;Blurryface;191;pop;2015
+10;in texas;T. Crawford;-1;288;country;2019
+11;O7;the;XXXXXXXXXX;388;indie;2025
+12;Kann es Liebe sein?;Falco;Junge Roemer;246;pop;1984
+13;Droopy Likes Your Face;C418;Life Changing Moments Seem Minor in Pictures;128;elektronikus;2010
+14;66;;;;rock;2025
