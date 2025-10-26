@@ -7,3 +7,7 @@
 ## 2025/10/25-26
 ### Saját zeneműfajok átírva a kötelezőre.
 ### Űrlapok és azok funkciói (amik lefutását isset-es elágazások irányítják) kidolgozva
+###
+# v1.0
+## 2025/10/26
+### Projekt véglegesítése: zenék megjelenítése, dátumformázás javítása, kinézet megoldása, szűrés kijavítása, űrlapok véglegesítése

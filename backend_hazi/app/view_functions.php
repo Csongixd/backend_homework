@@ -2,7 +2,7 @@
 declare(strict_types=1);
 
 function render_track_row(array $track) :string {
-    return "<tr><td>{$track['id']}</td><td>{$track['title']}</td><td>{$track['performer']}</td><td>{$track['album']}</td><td>".get_total_playlist_duration($track['length'])."</td><td>{$track['genre']}</td><td>{$track['year']}</td></tr>";
+    return "<tr><td>{$track['id']}</td><td>{$track['title']}</td><td>{$track['performer']}</td><td>{$track['album']}</td><td>".format_duration(intval($track["length"]))."</td><td>".render_genre_tag($track['genre'])."</td><td>{$track['year']}</td></tr>";
 }
 
 function format_duration(int $seconds) :string

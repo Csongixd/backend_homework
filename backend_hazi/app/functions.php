@@ -11,7 +11,7 @@ function get_all_tracks(): array
         $keys = ["id", "title", "performer", "album", "length", "genre", "year"];
         $x = 0;
         foreach ($keys as $key) {
-            $sublist[$key] = $music_data[$x] ?? "A rendszer hülye >:(";
+            $sublist[$key] = $music_data[$x] ?? "";
             $x++;
         }
         $__MUSIC__[] = $sublist;
@@ -36,7 +36,7 @@ function get_total_playlist_duration() :int
     $music1 = get_all_tracks();
     $sum = 0;
     foreach ($music1 as $music_line) {
-        $sum += $music_line["length"];
+        $sum += intval($music_line["length"]);
     }
     return $sum;
 }

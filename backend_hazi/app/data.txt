@@ -1,14 +1,21 @@
 1;Bohemian Rhapsody;Queen;A Night at the Opera;354;rock;1975
 2;Billie Jean;Michael Jackson;Thriller;294;pop;1982
 3;Coming Home;Reasoner;Nitrohaul OST;257;klasszikus;2010
-4;Deutschland;Rammstein;Deutschland;567;metal;2019
+4;Deutschland;Rammstein;Deutschland;563;metal;2019
 5;Einzelhaft;Falco;Einzelhaft;241;pop;1982
 6;June;Melobytes;Greatest Songs of Melobytes from Autumn 2022;30;elektronikus;2022
 7;Dva Mafona;Steklovata;Ldinkoj po stekloe;217;pop;2001
-8;Chicago Trip;MerrieMel;169;pop;2015
+8;Chicago Trip;MerrieMel;My Soundcloud Album;169;hip-hop;2015
 9;Doubt;twenty one pilots;Blurryface;191;pop;2015
 10;in texas;T. Crawford;-1;288;country;2019
 11;O7;the;XXXXXXXXXX;388;indie;2025
 12;Kann es Liebe sein?;Falco;Junge Roemer;246;pop;1984
 13;Droopy Likes Your Face;C418;Life Changing Moments Seem Minor in Pictures;128;elektronikus;2010
-14;66;;;;rock;2025
+14;Peeing mouse;American Idiot;Cartoons from HBO;259;rock;2025
+15;utálom az operát, a művészetet;Azahriah;cipoe;180;hip-hop;2025
+16;Charles Leclerc;David Guetta feat. Beyoncé;45^2;199;hip-hop;2025
+17;Maschine brennt;Falco;Einzelhaft;219;pop;1982
+18;Liebes Tango;Mo-Do;Was ist das?;245;hip-hop;1994
+19;Time;Falco;Nachtflug;233;pop;1992
+20;Haunt Muskie;C418;Minecraft Beta;361;indie;2013
+21;Zuviel Hitze;Falco;Einzelhaft;269;pop;1982
